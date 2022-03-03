@@ -1,3 +1,10 @@
-h2{
+.red-text{
     color: red;
+}
+p{
+    font-size: 16px;
+    font-family: monospace, sans-serif;
+}
+.smaller-image{
+    width: 100px;
 }
