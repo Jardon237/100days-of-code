@@ -1,3 +1,7 @@
+body{
+    background-color: blanchedalmond;
+    color:green;
+}
 .red-text{
     color: red;
 }
@@ -42,12 +46,14 @@ p{
     background-color: crimson;
     color: #fff;
     padding: 20px 40px 20px 40px;
-    margin: 20px;
+    margin: 20px 40px 20px 40px;
   }
 
   .blue-box {
     background-color: blue;
     color: #fff;
-    padding:40px 20px 20px 40px; /*multiple padding is done using clockwise direction 
-    margin: 20px;
+    padding:40px 20px 20px 40px; /*multiple padding is done using clockwise direction */
+  }
+  [type='checkbox']{
+      margin: 10px 0px 15px 0px;/*styling check boxes*/
   }
