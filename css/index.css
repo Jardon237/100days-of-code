@@ -9,6 +9,7 @@ body{
 p{
     font-size: 16px;
     font-family: monospace, sans-serif;
+    text-align: justify;
 }
 .smaller-image{
     width: 100px;
@@ -26,24 +27,24 @@ p{
 #cat-photo-form{
     background-color: green;
   }
-  .injected-text {
+.injected-text {
     margin-bottom: -25px;
     text-align: center;
   }
 
-  .box {
+.box {
     border-style: solid;
     border-color: black;
     border-width: 5px;
     text-align: center;
   }
 
-  .yellow-box {
+.yellow-box {
     background-color: yellow;
     padding: 10px;
   }
 
-  .red-box {
+.red-box {
     background-color: crimson;
     color: #fff;
     padding: 20px 40px 20px 40px;
@@ -51,10 +52,15 @@ p{
   }
 
   .blue-box {
-    background-color: blue;
-    color: #fff;
-    padding:40px 20px 20px 40px; /*multiple padding is done using clockwise direction */
+    background-color: blue;      --penguin-size: 200px;
+    --penguin-skin: black;
+    /* Only change code below this line */
+
+    /* Only change code above this line */
   }
-  [type='checkbox']{
-      margin: 10px 0px 15px 0px;/*styling check boxes*/
-  }
+h1{
+  text-align: center;
+}
+
+
+  
