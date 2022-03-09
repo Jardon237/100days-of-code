@@ -52,11 +52,10 @@ p{
   }
 
   .blue-box {
-    background-color: blue;      --penguin-size: 200px;
-    --penguin-skin: black;
-    /* Only change code below this line */
-
-    /* Only change code above this line */
+    background-color: blue;      
+    padding: 20px 40px 40px 20px;
+    margin: 20px 40px 40px 20px
+    
   }
 h1{
   text-align: center;
