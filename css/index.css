@@ -10,6 +10,7 @@ p{
     font-size: 16px;
     font-family: monospace, sans-serif;
     text-align: justify;
+    line-height: 25px;
 }
 .smaller-image{
     width: 100px;
@@ -62,12 +63,16 @@ h1{
   background-color: rgba(45, 45, 45, 0.1);
   padding: 10px;
   font-size: 27px;
+  position: relative;
+  top: 13px;
 }
 h4 {
   text-align: center;
   background-color: rgba(45, 45, 45, 0.1);
   padding: 10px;
   font-size: 27px;
+  text-transform: uppercase;
+  font-weight: 200;
 }
 #jus {
   text-align: justify;
@@ -75,6 +80,7 @@ h4 {
 .links {
   text-align: left;
   color: black;
+  opacity: o.7;
 }
 .fullCard {
   width: 245px;
