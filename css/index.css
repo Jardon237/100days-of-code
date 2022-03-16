@@ -105,3 +105,6 @@ h4 {
 #right{
   float: right;
 }
+.card{
+  background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+}
