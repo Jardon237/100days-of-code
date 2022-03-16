@@ -31,6 +31,7 @@ p{
 .injected-text {
     margin-bottom: -25px;
     text-align: center;
+    margin: auto;
   }
 
 .box {
@@ -53,7 +54,7 @@ p{
   }
 
   .blue-box {
-    background-color: blue;      
+    background-color: hsl(240, 100%, 50%);      
     padding: 20px 40px 40px 20px;
     margin: 20px 40px 40px 20px
     
